@@ -48,4 +48,4 @@ A 1000×800 window will open with the main menu.
 
 ## Course
 
-CSE423 — Computer Graphics, BRACU (Summer 2025)
+CSE423 — Computer Graphics, BRACU
